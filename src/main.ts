@@ -12,7 +12,7 @@ const oauth = {
   domain : 'babyshopping.auth.us-west-2.amazoncognito.com',
 
   // Authorized scopes
-  scope : ['phone', 'email', 'profile', 'openid','aws.cognito.signin.user.admin'],
+  scope : ['phone', 'email', 'profile', 'openid', 'aws.cognito.signin.user.admin'],
 
   // Callback URL
   redirectSignIn : 'http://localhost:4200',
