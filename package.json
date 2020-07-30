@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "[ -f src/aws-exports.js ] && mv src/aws-exports.js src/aws-exports.ts || ng serve; ng serve",	
+    "start": "[ -f src/aws-exports.js ] && mv src/aws-exports.js src/aws-exports.ts || ng serve; ng serve",
     "build": "[ -f src/aws-exports.js ] && mv src/aws-exports.js src/aws-exports.ts || ng build --prod; ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
@@ -22,6 +22,8 @@
     "@aws-amplify/ui-angular": "^0.2.13",
     "aws-amplify": "^3.0.22",
     "aws-amplify-angular": "^5.0.22",
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
