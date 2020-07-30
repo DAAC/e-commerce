@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-babyshopping-prod-12706-authRole",
+            "UnauthRoleArn": "arn:aws:iam::472864397774:role/amplify-babyshopping-prod-12706-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::472864397774:role/amplify-babyshopping-prod-12706-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-babyshopping-prod-12706-deployment",
+            "UnauthRoleName": "amplify-babyshopping-prod-12706-unauthRole",
+            "StackName": "amplify-babyshopping-prod-12706",
+            "StackId": "arn:aws:cloudformation:us-west-2:472864397774:stack/amplify-babyshopping-prod-12706/b1f842e0-d22d-11ea-a633-02bc0b348568",
+            "AmplifyAppId": "d1kdbfpdwrtvga"
+        },
+        "categories": {
+            "auth": {
+                "babyshopping8c069a43": {}
+            }
+        }
+    }
+}
