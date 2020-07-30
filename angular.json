@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "babyshopping"
+    }
+  },
+  "defaultProject": "babyshopping",
+  "cli": {
+    "analytics": "edd914fa-22b8-4652-8283-38ef3ffe69ab"
+  }
 }
